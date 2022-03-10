@@ -1,7 +1,4 @@
-- 👋 Olá eu sou o Ryan Sturaro
-- 💻 Atualmente sou estudante de Engenharia de Softaware
-- ✔ Tenho habilidades em Desenvolvimento Web
-- ✨ Python, JavaScript, HTML e CSS
+## Olá eu sou o Ryan Sturaro e sou estudante de Engenharia de software!
 
 <div align="center">
   <a href="https://github.com/rsturaro">
